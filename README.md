@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://bdeweer.github.io/social-links-profile/)
-- Live Site URL: [Add live site URL here](https://bdeweer.github.io/social-links-profile/)
+- Solution URL: [https://bdeweer.github.io/social-links-profile/](https://bdeweer.github.io/social-links-profile/)
+- Live Site URL: [https://bdeweer.github.io/social-links-profile/](https://bdeweer.github.io/social-links-profile/)
 
 ## My process
 
